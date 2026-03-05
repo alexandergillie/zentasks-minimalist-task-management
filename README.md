@@ -1,6 +1,6 @@
 # Zen Tasks
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/alexandergillie/zentasks-minimalist-task-management)
 
 A modern, responsive task management application built on Cloudflare Workers with a full-stack React frontend. Features a sleek shadcn/ui design system, dark/light theme support, sidebar navigation, and API routes powered by Hono.
 
@@ -115,7 +115,7 @@ npx wrangler deploy
 
 This deploys the Worker (`worker/index.ts`) and serves static assets as a SPA.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/alexandergillie/zentasks-minimalist-task-management)
 
 **Pro Tip**: Use Cloudflare's Git integration or CI/CD for automatic deployments.
 
